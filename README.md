@@ -5,7 +5,7 @@
 
 ## Hópur
 - Theodór Ísak
-- Skírnir Matthías
+- Skírnir Mattías
 - Rakel Rut
 
 ## Efnisyfirlit
