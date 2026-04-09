@@ -9,7 +9,7 @@
 - Rakel Rut
 
 ## Efnisyfirlit
-- [Verkefnislýsing](docs/verkefnislysing.md)
+- [Verkefnalýsing](docs/verkefnalysing.md)
 - [Verkaskipting](docs/verkaskipting.md)
 - [Tímaplan](docs/timaplan.md)
 - [Hönnunarferli](docs/honnunarferli.md)
