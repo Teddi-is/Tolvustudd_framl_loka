@@ -2,8 +2,9 @@
 
 | Verkþáttur | Ábyrgð | Staða | Athugasemdir |
 |---|---|---|---|
-| Hugmyndavinna | Nafn | Ekki hafið |  |
-| CAD hönnun | Nafn | Ekki hafið |  |
+| Hugmyndavinna | Allir | Hafið |  |
+| CAD hönnun | Skírnir | Hafið |  |
+| Uppsetning vefsíðu/github | Theodór | Hafið |  |
 | CAM undirbúningur | Nafn | Ekki hafið |  |
 | Roughing toolpath | Nafn | Ekki hafið |  |
 | Finishing toolpath | Nafn | Ekki hafið |  |
