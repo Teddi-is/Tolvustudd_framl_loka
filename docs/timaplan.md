@@ -1,1 +1,22 @@
+# Tímaplan
 
+## Vika 1
+- Velja verkefni
+- Gera frumhugmyndir
+- Skipta verkum
+
+## Vika 2
+- Ljúka CAD hönnun
+- Ákveða efni og stærðir
+
+## Vika 3
+- Undirbúa CAM
+- Búa til roughing og finishing toolpaths
+
+## Vika 4
+- Fræsa mótið
+- Taka myndir og skrásetja framkvæmd
+
+## Vika 5
+- Ljúka niðurstöðum
+- Búa til glærur og undirbúa kynningu
