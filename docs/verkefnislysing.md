@@ -1,4 +1,4 @@
-# Verkefnislýsing
+# Verkefnalýsing
 
 ## Hugmynd
 Hér kemur lýsing á verkefninu okkar og hvað við ætlum að framleiða.
