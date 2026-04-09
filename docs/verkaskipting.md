@@ -5,7 +5,7 @@
 | Hugmyndavinna | Allir | Hafið |  |
 | CAD hönnun | Skírnir | Hafið |  |
 | Uppsetning vefsíðu/github | Theodór | Hafið |  |
-| CAM undirbúningur | Nafn | Ekki hafið |  |
+| CAM undirbúningur | Rakel | Ekki hafið |  |
 | Roughing toolpath | Nafn | Ekki hafið |  |
 | Finishing toolpath | Nafn | Ekki hafið |  |
 | Skrásetning | Nafn | Ekki hafið |  |
