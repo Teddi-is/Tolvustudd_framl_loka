@@ -23,7 +23,7 @@ Hér verður lýst roughing toolpath, verkfærum, feeds og speeds.
 ## Finishing
 Hér verður lýst finishing toolpath, verkfærum, feeds og speeds.
 
-![Finishing toolpath](../images/cad/cam-finishing.png)   
+![Finishing toolpath](../images/cad/CAM-finishing.png)   
 
 ## Framleiðsla
 Hér verða myndir og lýsing á framkvæmdinni sjálfri.
