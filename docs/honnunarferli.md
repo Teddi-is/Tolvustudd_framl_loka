@@ -12,7 +12,6 @@ Hér verður lýst hvernig líkanið var hannað í CAD og hvaða breytingar vor
 ## Endanleg hönnun
 Hér verður kynnt endanleg útfærsla verkefnisins.  
 
-## upplysingar-eyða-seinna
 Til að setja mynd í docs/efnisval-og-msds.md 
 
 ![CAD mynd](../images/cad/CAD-Model.png)   
