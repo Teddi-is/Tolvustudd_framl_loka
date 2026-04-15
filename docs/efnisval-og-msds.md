@@ -1,13 +1,12 @@
 # Efnisval og MSDS
 
 ## Efnisval
-Hér verður lýst hvaða efni voru notuð í verkefninu og af hverju þau voru valin.
+Hér verður lýst hvaða efni voru notuð í verkefninu og af hverju þau voru valin. (eyða seinna)
 
-## Vax
-Notast var við machinable wax fyrir mótið.
+Valið var frauðplast til að búa til eftirlíkingu af módelinu og síðan "efni" sem verður mótað utan um frauðplastið og límt með "lími" svo það haldi sér.
 
 ## Öryggi
-Mikilvægt er að fylgja öryggisreglum við notkun Roland SRM-20 og við meðhöndlun efna.
+Mikilvægt er að fylgja öryggisreglum við notkun Shopbot og við meðhöndlun efna.
 
 ## MSDS
 Hér verða tenglar eða samantekt úr MSDS skjölum fyrir efnin sem notuð voru.
