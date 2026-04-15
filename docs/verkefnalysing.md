@@ -4,7 +4,7 @@
 Hér kemur lýsing á verkefninu okkar og hvað við ætlum að framleiða.
 
 ## Markmið
-Markmið verkefnisins er að hanna og framleiða mót í vax með Roland SRM-20 og skrásetja allt ferlið frá hugmynd að lokaafurð.
+Markmið verkefnisins er að hanna og framleiða mót í frauðplast með Shopbot og skrásetja allt ferlið frá hugmynd að lokaafurð.
 
 ## Kröfur
 - Hanna hlutinn í CAD
