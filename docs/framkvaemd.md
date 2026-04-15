@@ -18,10 +18,12 @@ Hér verður lýst undirbúningi fyrir vinnslu, festingum, núllstillingu og val
 ## Roughing
 Hér verður lýst roughing toolpath, verkfærum, feeds og speeds.
 
-![Roughing Toolpath](../images/cam/CAM-Model.png)   
+![Roughing Toolpath](../images/cam/cam-roughing.png)   
 
 ## Finishing
 Hér verður lýst finishing toolpath, verkfærum, feeds og speeds.
+
+![Finishing toolpath](../images/cad/cam-finishing.png)   
 
 ## Framleiðsla
 Hér verða myndir og lýsing á framkvæmdinni sjálfri.
