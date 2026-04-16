@@ -18,12 +18,27 @@ Hér verður lýst undirbúningi fyrir vinnslu, festingum, núllstillingu og val
 ## Roughing
 Hér verður lýst roughing toolpath, verkfærum, feeds og speeds.
 
+Feedrate á roughing er 5000 mm/min
+Spindle speed er 12000 rpm
+Tolerance er 10mm
+
+Í roughing er stærri biti notaður til að taka sem mest efni í burtu á meiri hraða og með minni nákvæmni. Ef þetta væri ekki gert þá myndi fræsingin taka töluvert lengri tíma ef það væri notaður fínn biti í allt mótið.
+
 ![Roughing Toolpath](../images/cam/CAM-roughing.png)   
 
 ## Finishing
 Hér verður lýst finishing toolpath, verkfærum, feeds og speeds.
 
+Feedrate á finishing er 3000 mm/min
+Spindle speed er 12000 rpm
+Tolerance er 0.5mm
+
+Í finishing tekur hann tvær ferðir, annars vegar tekur hann "passes" í x átt, og svo þegar hann er búinn af því yfir allann búkinn tekur hann "passes" í y átt. Það er til þess að jafna úr ribbunum sem myndast þegar hann fer í x átt því fræsibitinn skilur eftir rauf í hvert skipti.
+
+
 ![Finishing toolpath](../images/cam/CAM-finishing.png)   
 
 ## Mótun á efni við frauðplastið.
+
+Við mótun við frauðplastið er notað einskonar striga efni sem er lagt yfir plastið og penslað með 
 
