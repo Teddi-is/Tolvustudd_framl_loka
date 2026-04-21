@@ -15,7 +15,9 @@
 
 ## Vika 4
 - Fræsa mótið
-- Taka myndir og skrásetja framkvæmd
+- Móta striga á mótið
+- Klára verklega hluta verkefnisins
+- Setja allt inn á github
 
 ## Vika 5
 - Ljúka niðurstöðum
