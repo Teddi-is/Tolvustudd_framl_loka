@@ -60,5 +60,37 @@ Tolerance er 0.5mm
 
 ## Mótun á efni við frauðplastið.
 
-Við mótun við frauðplastið er notað einskonar striga efni sem er lagt yfir plastið og penslað með 
+Til að móta svo strigann við frauðplastið þarf að fylgja ákveðnum skrefum. 
+
+Til að byrja með er mótið penslað með vaselíni svo það sé auðvelt að ná mótinu af þegar það er harðnað.
+![Vaselin](../images/setja-vaselin.JPEG) 
+
+Síðan er epoxy resin blandað með herði í réttum hlutföllum og hrært saman. Eftir það er striginn mótaður að frauðplastinu og epoxy resin penslað yfir. Hér þarf að passa að hafa hvorki og lítið né mikið af resin.
+
+![Epoxy](../images/setja-resin.JPEG)
+
+![Strigi](../images/setja-striga2.JPEG)
+
+Svo eru þessi skref endurtekin þangað til við höfum 3 lög af striga og epoxy. Best er að snúa hverju strigalagi 30° svo hann liggi ekki alltaf í sömu átt fyrir mestann styrk.
+
+Að lokum er sett matarfilma sem er götuð á efsta lagið af striga.
+
+![Matarfilma](../images/gata-filmu.jpg)
+
+Og svo settur svampur yfir filmuna og sett í lofttæmingarpoka. Filman er sett á til að epoxy-ið límist ekki við svampinn og svampurinn er til að allt auka resin sogist í hann þegar loftið er tæmpt úr pokanum. Pokinn gerir það að verkum að formið haldist á meðan resin-ið harðni yfir nóttina.
+
+![Vacuum](../images/vacuum-pack.JPEG)   
+![Vacuum2](../images/vacuum-pack2.JPEG)  
+
+Svo þegar þetta er búið að harðna yfir nótt er mótið tekið úr pokanum og svampurinn, frauðplastið og matarfilman fjarlægð og lokaútkoman fer að taka á sig mynd. 
+
+![Utkoma](../images/utkoma.JPEG)  
+
+Eina sem á eftir að gera er að saga göt fyrir fæturna á drónanum og bora göt fyrir loftflæði ásamt því að setja festingar.
+
+![Utkoma2](../images/utkoma-droni.jpg)   
+
+Lokaafurðin lítur svona út og má sjá að festingarnar eru boltar sem eru festir saman með teygjum. 
+
+
 
