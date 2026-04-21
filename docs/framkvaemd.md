@@ -32,10 +32,12 @@ Næst var að núllstilla Z-ásinn og til þess er notuð járnplata til að set
 ![Núllstilla z-ás](../images/nulla-z-as.JPEG)   
 
 ## Roughing
-Hér verður lýst roughing toolpath, verkfærum, feeds og speeds.
+Frauðplast er mjög mjúkt og auðvelt í vinnslu og er því notað mjög hátt feedrate/hraði. Einnig er tolerance 10mm frekar hátt til að lágmarka tíma en það hefur engin áhrif á módelið þar sem finishing fer yfir það aftur.
 
 Feedrate á roughing er 5000 mm/min
+
 Spindle speed er 12000 rpm
+
 Tolerance er 10mm
 
 Í roughing er stærri biti notaður til að taka sem mest efni í burtu á meiri hraða og með minni nákvæmni. Ef þetta væri ekki gert þá myndi fræsingin taka töluvert lengri tíma ef það væri notaður fínn biti í allt mótið.
@@ -43,10 +45,12 @@ Tolerance er 10mm
 ![Roughing Toolpath](../images/roughing-toolpath.png)   
 
 ## Finishing
-Hér verður lýst finishing toolpath, verkfærum, feeds og speeds.
+Hér minnkum við feedrate til að fá betri yfirborðsáferð.
 
 Feedrate á finishing er 3000 mm/min
+
 Spindle speed er 12000 rpm
+
 Tolerance er 0.5mm
 
 Í finishing tekur hann tvær ferðir, annars vegar tekur hann "passes" í x átt, og svo þegar hann er búinn af því yfir allann búkinn tekur hann "passes" í y átt. Það er til þess að jafna úr ribbunum sem myndast þegar hann fer í x átt því fræsibitinn skilur eftir rauf í hvert skipti.
