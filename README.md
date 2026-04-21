@@ -12,7 +12,6 @@
 - [Verkefnalýsing](docs/verkefnalysing.md)
 - [Verkaskipting](docs/verkaskipting.md)
 - [Tímaplan](docs/timaplan.md)
-- [Hönnunarferli](docs/honnunarferli.md)
 - [Efnisval og MSDS](docs/efnisval-og-msds.md)
 - [Framkvæmd](docs/framkvaemd.md)
 - [Niðurstöður](docs/nidurstodur.md)
