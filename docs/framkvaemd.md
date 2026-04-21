@@ -65,13 +65,13 @@ Til að móta svo strigann við frauðplastið þarf að fylgja ákveðnum skref
 Til að byrja með er mótið penslað með vaselíni svo það sé auðvelt að ná mótinu af þegar það er harðnað.
 ![Vaselin](../images/setja-vaselin.JPEG) 
 
-Síðan er epoxy resin blandað með herði í réttum hlutföllum og hrært saman. Eftir það er striginn mótaður að frauðplastinu og epoxy resin penslað yfir. Hér þarf að passa að hafa hvorki og lítið né mikið af resin.
+Síðan er epoxy resin blandað með herði í réttum hlutföllum og hrært saman. Eftir það er striginn mótaður að frauðplastinu og epoxy resin penslað yfir. Hér þarf að passa að hafa hvorki of lítið né mikið af resin.
 
 ![Epoxy](../images/setja-resin.JPEG)
 
 ![Strigi](../images/setja-striga2.JPEG)
 
-Svo eru þessi skref endurtekin þangað til við höfum 3 lög af striga og epoxy. Best er að snúa hverju strigalagi 30° svo hann liggi ekki alltaf í sömu átt fyrir mestann styrk.
+Svo eru þessi skref endurtekin þangað til við höfum 3 lög af striga og epoxy. Best er að snúa hverju strigalagi 30° svo hann liggi ekki alltaf í sömu átt fyrir mestan styrk.
 
 Að lokum er sett matarfilma sem er götuð á efsta lagið af striga.
 
@@ -91,6 +91,7 @@ Eina sem á eftir að gera er að saga göt fyrir fæturna á drónanum og bora 
 ![Utkoma2](../images/utkoma-droni.jpg)   
 
 Lokaafurðin lítur svona út og má sjá að festingarnar eru boltar sem eru festir saman með teygjum. 
+
 
 
 
