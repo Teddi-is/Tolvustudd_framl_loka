@@ -11,6 +11,7 @@ Verkefnið var unnið á Shop Bot PRS5 Alpha sem er CNC fræsir sem er ætlaður
 
 ## Fræsibitar
 Fræsibitinn sem er notaður í að fjarlægja mest allt efnið er 10mm flat end karbít biti.
+
 Fræsibitinn sem er notaður í fínpússun er 12mm karbít biti sem minnkar niður í 6mm á endanum (tapered).
 ![Fræsibitar](../images/fraesi-bitar.jpg)   
 
