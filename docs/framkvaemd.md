@@ -15,11 +15,17 @@ Fræsibitinn sem er notaður í að fjarlægja mest allt efnið er 10mm flat end
 Fræsibitinn sem er notaður í fínpússun er 12mm karbít biti sem minnkar niður í 6mm á endanum (tapered).
 ![Fræsibitar](../images/fraesi-bitar.jpg)   
 
+Til að skipta um fræsibita í Shopbot er notast við tvo fasta lykla til að losa gamla bitann og kollettuna úr, svo er mikilvægt að hafa í huga að það eru mismunandi stærðir á kollettum fyrir mismunandi stærðir á bitum.
+![Fræsibitar](../images/skipta-fraesibita.JPEG)   
+
+
 ## Undirbúningur
 Fyrst var að festa mótið við shopbot vinnusvæðið og dugar þá ekki að skrúfa það niður eins og venjuleg timburmót þar sem frauðplastið er mjög mjúkt, svo við enduðum á því að setja timbur á ská ofan á mótið til að halda því niðri ásamt því að líma það niður til að stöðva hreyfingar í XY-átt. Svo þegar timbrið er skrúfað niður festist plastið í Z-átt. 
 
 Hættan við það er að fræsibitinn, spindillinn eða ryksugan geta nú rekist utan í timbrið þar sem það er ekki inni í toolpaths svo við fórum vel yfir það ásamt prufum til að sjá til þess að það myndi ekki gerast.
 ![Festing frauðplasts](../images/festa-fraudplast.JPEG)   
+
+
 
 Næst var að núllstilla Z-ásinn og til þess er notuð járnplata til að setja á milli frauðplastsins og fræsibitans svo fræsirinn viti hvar á að byrja.
 
