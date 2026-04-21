@@ -12,7 +12,7 @@ Verkefnið var unnið á Shop Bot PRS5 Alpha sem er CNC fræsir sem er ætlaður
 ## Fræsibitar
 Fræsibitinn sem er notaður í að fjarlægja mest allt efnið er 10mm flat end karbít biti.
 Fræsibitinn sem er notaður í fínpússun er 12mm karbít biti sem minnkar niður í 6mm á endanum (tapered).
-![Fræsibitar](../images/fraesi-bitar.png)   
+![Fræsibitar](../images/fraesi-bitar.jpg)   
 
 ## Undirbúningur
 Fyrst var að festa mótið við shopbot vinnusvæðið og dugar þá ekki að skrúfa það niður eins og venjuleg timburmót þar sem frauðplastið er mjög mjúkt, svo við enduðum á því að setja timbur á ská ofan á mótið til að halda því niðri ásamt því að líma það niður til að stöðva hreyfingar í XY-átt. Svo þegar timbrið er skrúfað niður festist plastið í Z-átt. 
