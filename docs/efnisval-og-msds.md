@@ -1,7 +1,6 @@
 # Efnisval og MSDS
 
 ## Efnisval
-Hér verður lýst hvaða efni voru notuð í verkefninu og af hverju þau voru valin. (eyða seinna)
 
 Valið var frauðplast til að búa til eftirlíkingu af módelinu og síðan strigi sem verður mótað utan um frauðplastið og límt með epoxy resin á milli laga svo það haldi sér. 
 
